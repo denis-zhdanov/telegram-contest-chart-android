@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#FFFFFFFF</color>
+    <color name="background_dark">#FF1D2733</color>
+    <color name="title">#FF3896D4</color>
+    <color name="action_bar_background_light">#FF517DA2</color>
+    <color name="action_bar_text_color_light">#FFFFFFFF</color>
+    <color name="action_bar_background_dark">#FF212D3B</color>
+    <color name="action_bar_text_color_dark">#FFFFFFFF</color>
+</resources>

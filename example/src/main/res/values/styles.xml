@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="AppTheme.Light" parent="Leonardo.Light">
+        <item name="theme_name">light</item>
+        <item name="action_bar_background_color">@color/action_bar_background_light</item>
+        <item name="action_bar_text_color">@color/action_bar_text_color_light</item>
+        <item name="leonardo_chart_background_color">@color/background_light</item>
+        <item name="leonardo_legend_selector_background_color">@color/background_light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Leonardo.Dark">
+        <item name="theme_name">dark</item>
+        <item name="action_bar_background_color">@color/action_bar_background_dark</item>
+        <item name="action_bar_text_color">@color/action_bar_text_color_dark</item>
+        <item name="leonardo_chart_background_color">@color/background_dark</item>
+        <item name="leonardo_legend_selector_background_color">@color/background_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

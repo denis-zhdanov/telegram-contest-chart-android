@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Leonardo">
+        <attr name="leonardo_chart_insets" format="dimension" />
+        <attr name="leonardo_chart_background_color" format="color" />
+        <attr name="leonardo_chart_grid_color" format="color" />
+        <attr name="leonardo_chart_grid_width" format="dimension" />
+        <attr name="leonardo_chart_plot_width" format="dimension" />
+        <attr name="leonardo_chart_axis_label_text_size" format="dimension" />
+        <attr name="leonardo_chart_axis_label_color" format="color" />
+        <attr name="leonardo_chart_selection_sign_radius" format="dimension" />
+        <attr name="leonardo_chart_legend_text_title_color" format="color" />
+        <attr name="leonardo_chart_legend_background_color" format="color" />
+        <attr name="leonardo_navigator_chart_background_inactive" format="color" />
+        <attr name="leonardo_navigator_chart_active_border_color" format="color" />
+        <attr name="leonardo_navigator_chart_active_border_horizontal_size" format="dimension" />
+        <attr name="leonardo_navigator_chart_active_border_vertical_size" format="dimension" />
+        <attr name="leonardo_navigator_chart_selection_color" format="color" />
+        <attr name="leonardo_legend_selector_font_size" format="dimension" />
+        <attr name="leonardo_legend_selector_legend_text_color" format="color" />
+        <attr name="leonardo_legend_selector_background_color" format="color" />
+        <attr name="leonardo_legend_selector_row_separator_color" format="color" />
+        <attr name="leonardo_legend_selector_check_sign_color" format="color" />
+    </declare-styleable>
+</resources>

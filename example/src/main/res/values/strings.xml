@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telegram Contest</string>
+    <string name="title">Statistics</string>
+    <string name="theme_switcher">Switch Theme</string>
+</resources>

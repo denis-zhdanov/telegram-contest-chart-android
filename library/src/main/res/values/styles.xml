@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Leonardo.Light" parent="@android:style/Theme.Light">
+        <item name="leonardo_chart_insets">16dp</item>
+        <item name="leonardo_chart_background_color">#FFFFFFFF</item>
+        <item name="leonardo_chart_grid_color">#FFE7E8E9</item>
+        <item name="leonardo_chart_axis_label_text_size">14sp</item>
+        <item name="leonardo_chart_axis_label_color">#FF96A2AA</item>
+        <item name="leonardo_chart_grid_width">1dp</item>
+        <item name="leonardo_chart_plot_width">3dp</item>
+        <item name="leonardo_chart_selection_sign_radius">4dp</item>
+        <item name="leonardo_chart_legend_text_title_color">#FF222222</item>
+        <item name="leonardo_chart_legend_background_color">#FFFFFFFF</item>
+        <item name="leonardo_navigator_chart_background_inactive">#FFF5F8F9</item>
+        <item name="leonardo_navigator_chart_active_border_color">#FFDBE7F0</item>
+        <item name="leonardo_navigator_chart_active_border_horizontal_size">4dp</item>
+        <item name="leonardo_navigator_chart_active_border_vertical_size">2dp</item>
+        <item name="leonardo_navigator_chart_selection_color">#80E4ECF4</item>
+        <item name="leonardo_legend_selector_font_size">24dp</item>
+        <item name="leonardo_legend_selector_legend_text_color">#FF222222</item>
+        <item name="leonardo_legend_selector_background_color">#FFFFFFFF</item>
+        <item name="leonardo_legend_selector_row_separator_color">#FFE7E8E9</item>
+        <item name="leonardo_legend_selector_check_sign_color">#FFFFFFFF</item>
+    </style>
+
+    <style name="Leonardo.Dark" parent="@android:style/Theme.Black">
+        <item name="leonardo_chart_insets">16dp</item>
+        <item name="leonardo_chart_background_color">#FF1D2733</item>
+        <item name="leonardo_chart_grid_color">#FF101924</item>
+        <item name="leonardo_chart_axis_label_text_size">14sp</item>
+        <item name="leonardo_chart_axis_label_color">#FF506372</item>
+        <item name="leonardo_chart_grid_width">1dp</item>
+        <item name="leonardo_chart_plot_width">3dp</item>
+        <item name="leonardo_chart_selection_sign_radius">4dp</item>
+        <item name="leonardo_chart_legend_text_title_color">#FFE5EFF5</item>
+        <item name="leonardo_chart_legend_background_color">#FF202B38</item>
+        <item name="leonardo_navigator_chart_background_inactive">#FF19232E</item>
+        <item name="leonardo_navigator_chart_active_border_color">#FF2B4256</item>
+        <item name="leonardo_navigator_chart_active_border_horizontal_size">4dp</item>
+        <item name="leonardo_navigator_chart_active_border_vertical_size">2dp</item>
+        <item name="leonardo_navigator_chart_selection_color">#10FFFFFF</item>
+        <item name="leonardo_legend_selector_font_size">24dp</item>
+        <item name="leonardo_legend_selector_legend_text_color">#FFFFFFFF</item>
+        <item name="leonardo_legend_selector_background_color">#FF1D2733</item>
+        <item name="leonardo_legend_selector_row_separator_color">#FF0B131E</item>
+        <item name="leonardo_legend_selector_check_sign_color">#FFFFFFFF</item>
+    </style>
+
+
+</resources>

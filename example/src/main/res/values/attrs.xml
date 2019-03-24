@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="theme_name" format="string"/>
+    <attr name="action_bar_background_color" format="color" />
+    <attr name="action_bar_text_color" format="color" />
+</resources>
